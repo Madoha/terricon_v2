@@ -1,0 +1,16 @@
+{
+    "rabbitmq": {
+        "host": "localhost",
+        "port": 5672,
+        "user": "guest",
+        "password": "guest"
+    },
+    "accounts": [
+        {
+            "phone": "",
+            "api_id": ,
+            "api_hash": ""
+        }
+    ],
+    "gemini_api_key": ""
+}
